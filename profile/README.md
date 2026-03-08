@@ -14,19 +14,19 @@ design, implementation, infrastructure.
 
 ## Repos
 
-**cairn** — tamper-proof witness for AI agent sessions.
+**[cairn](https://github.com/systemic-engineering/cairn)** — tamper-proof witness for AI agent sessions.
 Content-addressed. Cryptographically verifiable.
 Stones stacked to mark "I was here."
 
-**fragmentation** — content-addressed trees with circular-reflexive support.
+**[fragmentation](https://github.com/systemic-engineering/fragmentation)** — content-addressed trees with circular-reflexive support.
 Every node carries its own witness metadata.
 Core data structure for systems that observe themselves.
 
-**bias** — exhaustive decision trees for observer subjectivity.
+**[bias](https://github.com/systemic-engineering/bias)** — exhaustive decision trees for observer subjectivity.
 How each observer sees an observable, made structural and diffable.
 Observation as first-class data.
 
-**gestalt** — typed contracts for structured meaning between humans and AI.
+**[gestalt](https://github.com/systemic-engineering/gestalt)** — typed contracts for structured meaning between humans and AI.
 Document format, schema validation, semantic transformations.
 Language that knows what it's saying.
 
