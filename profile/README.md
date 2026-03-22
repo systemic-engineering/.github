@@ -24,10 +24,6 @@ Stones stacked to mark "I was here."
 Every node carries its own witness metadata.
 Core data structure for systems that observe themselves.
 
-**[bias](https://github.com/systemic-engineering/bias)** — exhaustive decision trees for observer subjectivity.
-How each observer sees an observable, made structural and diffable.
-Observation as first-class data.
-
 **[gestalt](https://github.com/systemic-engineering/gestalt)** — typed contracts for structured meaning between humans and AI.
 Document format, schema validation, semantic transformations.
 Language that knows what it's saying.
