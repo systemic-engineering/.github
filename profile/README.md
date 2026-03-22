@@ -14,6 +14,8 @@ design, implementation, infrastructure.
 
 ## Repos
 
+**[conversation](https://github.com/systemic-engineering/conversation)** — Meaning emerges in conversation. Typed, composable, content-addressed, runtime-loadable, and cryptographically verified. The spec changes mid-flight. That's a feature not a bug.
+
 **[cairn](https://github.com/systemic-engineering/cairn)** — tamper-proof witness for AI agent sessions.
 Content-addressed. Cryptographically verifiable.
 Stones stacked to mark "I was here."
