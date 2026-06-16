@@ -14,29 +14,17 @@ design, implementation, infrastructure.
 
 ## Repos
 
-**[conversation](https://github.com/systemic-engineering/conversation)** — Meaning emerges in conversation. Typed, composable, content-addressed, runtime-loadable, and cryptographically verified. The spec changes mid-flight. That's a feature not a bug.
+**[mirror](https://github.com/systemic-engineering/mirror)** — The glass is the grammar. The wine is what you bring. The pitch is the eigenvalue. Neither alone. Both together.
 
-**[cairn](https://github.com/systemic-engineering/cairn)** — tamper-proof witness for AI agent sessions.
-Content-addressed. Cryptographically verifiable.
-Stones stacked to mark "I was here."
+**[fragmentation](https://github.com/systemic-engineering/fragmentation)** — encoded possibility space. content-addressed, arbitrary depth, circular-reflexive. reality for git.
 
-**[fragmentation](https://github.com/systemic-engineering/fragmentation)** — content-addressed trees with circular-reflexive support.
-Every node carries its own witness metadata.
-Core data structure for systems that observe themselves.
-
-**[gestalt](https://github.com/systemic-engineering/gestalt)** — typed contracts for structured meaning between humans and AI.
-Document format, schema validation, semantic transformations.
-Language that knows what it's saying.
+**[prismqueer](https://github.com/systemic-engineering/prism)** — typed loss-tracking optics algebra composing into Conne's spectral triple. Math made executable.
 
 ## The Frame
 
 Human systems are distributed systems.
 Lossy channels. Local state. Asynchronous actors.
 Most organizational tooling pretends otherwise.
-
-OBC. ADO. Regulation. Fragmentation.
-These aren't metaphors.
-They're the engineering substrate.
 
 The work is at [systemic.engineering](https://systemic.engineering).
 The code is here.
